@@ -1,6 +1,6 @@
 # Jelastic - NGINX Failover Load Balancer
 
-![NGINX Failover](https://www.3cx.com/wp-content/uploads/2018/08/logo-3.png)
+![NGINX Failover](https://github.com/data-sciences-corporation/failover-addon-jps/blob/main/images/nginx-failover-jps.png?raw=true)
 
 ## Usage:
 
