@@ -18,6 +18,9 @@
 		"success": {
 			"text": "Dashboard success text",
 			"email": "Email success text"
+		},
+		"targetnodes" : {
+			"nodeType" : [ "nginx-dockerized" ]
 		}
 	}
 }
