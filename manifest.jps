@@ -1,0 +1,23 @@
+{
+	"jpsType": "update",
+	"jpsVersion": "0.1.0-dev",
+	"application": {
+		"id": "nginx-failover",
+		"name": "NGINX - Failover",
+		"version": "0.1.0-dev",
+		"type": "php",
+		"homepage": "https://raw.githubusercontent.com/data-sciences-corporation/failover-addon-jps/master",
+		"logo": "https://www.example.com/logo.png",
+		"description": {
+			"text": "A failover addon for nginx load balancers."
+		},
+		"env": {
+			"upload": [],
+			"configs": []
+		},
+		"success": {
+			"text": "Dashboard success text",
+			"email": "Email success text"
+		}
+	}
+}
